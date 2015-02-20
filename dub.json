@@ -1,0 +1,10 @@
+{
+	"name": "cccd",
+	"description": "Cyclomatic Complexity Calculator for D",
+	"copyright": "Copyright © 2015, sinkuu",
+	"authors": ["sinkuu"],
+    "license": "MIT",
+	"dependencies": {
+        "libdparse": "~master"
+	}
+}
